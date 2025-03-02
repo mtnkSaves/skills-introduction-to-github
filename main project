@@ -1,3 +1,0 @@
-# This is my first project and i will try to learn python i will add every new function i learned and help people who are trying to learn python too
- password = input("enter password to see the pircture")
- if password == 1234567890: run image.png
